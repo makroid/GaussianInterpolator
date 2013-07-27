@@ -4,7 +4,7 @@ from Tkinter import *
 from ttk import Frame, Button, Style
 from animation import PropertyAnimation
 from gaussianinterpolator import GaussInterpolator
-from discretegrid import Observations
+from observations import Observations
 
 
 class Line(object):
